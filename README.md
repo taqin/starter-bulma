@@ -5,6 +5,8 @@
 
 Get started with Bulma, the free, open source CSS framework based on Flexbox.
 
+## Dashboard Template
+Located in dashboard.html and css in css/dashboard.css
 
 ## Built With
 
